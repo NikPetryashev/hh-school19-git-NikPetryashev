@@ -12,3 +12,16 @@ drwxrwxrwx 1 nik nik 4096 Nov 21 15:56 info
 drwxrwxrwx 1 nik nik 4096 Nov 21 16:03 logs
 drwxrwxrwx 1 nik nik 4096 Nov 21 16:13 objects
 drwxrwxrwx 1 nik nik 4096 Nov 21 15:56 refs
+total 0
+drwxrwxrwx 1 nik nik 4096 Nov 21 16:18 .
+drwxrwxrwx 1 nik nik 4096 Nov 21 16:19 ..
+drwxrwxrwx 1 nik nik 4096 Nov 21 16:18 19
+drwxrwxrwx 1 nik nik 4096 Nov 21 16:18 34
+drwxrwxrwx 1 nik nik 4096 Nov 21 16:03 46
+drwxrwxrwx 1 nik nik 4096 Nov 21 16:03 4b
+drwxrwxrwx 1 nik nik 4096 Nov 21 16:02 66
+drwxrwxrwx 1 nik nik 4096 Nov 21 16:13 89
+drwxrwxrwx 1 nik nik 4096 Nov 21 16:17 c8
+drwxrwxrwx 1 nik nik 4096 Nov 21 16:13 f0
+drwxrwxrwx 1 nik nik 4096 Nov 21 15:56 info
+drwxrwxrwx 1 nik nik 4096 Nov 21 15:56 pack
